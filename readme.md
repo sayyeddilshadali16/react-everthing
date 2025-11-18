@@ -51,6 +51,9 @@ the ui gets broken into modular and reusable components. it can be composed and 
 
 - props
 
+props are read only properties
+
+- 
 
 
 

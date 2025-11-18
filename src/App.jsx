@@ -1,9 +1,10 @@
 import React from "react";
+import Props from "./pages/props/index";
 
 const App = () => {
   return (
-    <div className="min-h-screen w-full bg-slate-900 text-white">
-      <h1 class="text-3xl font-bold underline">Hello world!</h1>
+    <div className="min-h-screen bg-neutral-900 text-white">
+      <Props />
     </div>
   );
 };
