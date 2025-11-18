@@ -39,3 +39,18 @@ allow to write html inside javascript
 
 - eslint
 
+collabrative coding, using github, faces problems -> diff people writes code in diff style which creates conflict while merging code to avoid eslint is used, where we can define custom rules for code formatting.
+
+- gitignore
+
+untrack file from git
+
+- components
+
+the ui gets broken into modular and reusable components. it can be composed and nested to create complex UI structure.
+
+- props
+
+
+
+
